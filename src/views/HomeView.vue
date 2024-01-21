@@ -32,7 +32,7 @@ export default {
     LTileLayer,
   },
   setup() {
-    const zoom = ref(10);
+    const zoom = ref(8);
 
     onMounted(() => {});
 

@@ -11,7 +11,11 @@
           class="h-9 p-3 border-1 border-black rounded-lg"
         />
         <dropdown title="Contains"></dropdown>
-        <checkbox name="Place"></checkbox>
+        <checkbox
+          name="Place"
+          idCheckbox="Place"
+          forCheckbox="Place"
+        ></checkbox>
         <checkbox name="Data"></checkbox>
         <checkbox name="Layer"></checkbox>
         <checkbox name="Territory"></checkbox>
